@@ -11,6 +11,6 @@
 ## Demo
 <p align="center">
   <a href="">
-    <img src="./demo/OGScene3D.gif" alt="Logo" width="80%">
+    <img src="./demo/OGScene3D.gif" alt="Logo" width="100%">
   </a>
 </p>
